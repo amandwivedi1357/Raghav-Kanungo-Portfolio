@@ -7,7 +7,9 @@ import Link from "next/link";
 import Image from "next/image";
 import { ToastContainer,toast } from "react-toastify";
 import emailjs from "@emailjs/browser"
-import './reacttoastify.css'
+// import './reacttoastify.css'
+import 'react-toastify/dist/ReactToastify.css';
+
 
 const EmailSection = () => {
 const [email,setEmail] = useState('')
