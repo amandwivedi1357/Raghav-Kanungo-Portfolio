@@ -16,7 +16,7 @@ const achievementsList = [
     postfix: "+",
   },
   {
-    metric: "Leetcode Problems Solved",
+    metric: "Coding Problems Solved",
     value: "200",
     postfix: "+",
   },
